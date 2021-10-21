@@ -32,4 +32,5 @@ class StandardButton(Button):
 
         self.text = text
         self.content_set(icon)
-        self.callback_clicked_add(cb_onclick)
+        if cb_onclick:
+            self.callback_clicked_add(cb_onclick)

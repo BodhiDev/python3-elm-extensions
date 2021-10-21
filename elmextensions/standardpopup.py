@@ -17,7 +17,7 @@ ALIGN_CENTER = 0.5, 0.5
 
 
 # pylint: disable=no-member,too-few-public-methods
-class StandardPopup:
+class StandardPopup(Popup):
     '''Standard popup class'''
 
     def __init__(self, our_parent, our_msg, *args, our_ic=None, **kwargs):

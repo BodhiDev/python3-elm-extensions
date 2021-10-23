@@ -1,8 +1,10 @@
-A series of Elementary Python tutorials.
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/paypalme/rbtylee)
+
+The code from Jeff Hoogland's series of Elementary Python tutorials ported to python3.
 
 [Python Elementary Reference Docs](https://docs.enlightenment.org/python-efl/current/)
 
-Tutorials:
+## Tutorials:
 - 1.) [Hello Elementary](https://www.toolbox.com/tech/operating-systems/blogs/py-efl-tutorial-1-hello-elementary-022415/)
 - 2.) [Weight Hints](https://www.toolbox.com/tech/operating-systems/blogs/py-efl-tutorial-2-weight-hints-031215/)
 - 3.) [Align Hints](https://www.toolbox.com/tech/operating-systems/blogs/py-efl-tutorial-3-align-hints-041415/)

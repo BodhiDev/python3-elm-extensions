@@ -4,6 +4,11 @@ A library that contains a few more complex elementary objects for easy importing
 
 This is the python3 version of Jeff Hoogland original [python-elm-extensions module](https://github.com/JeffHoogland/python-elm-extensions).
 
+# Dependencies
+
+- EFL
+- Python Bindings for EFL
+
 # Current Objects:
 
 - SortedList 
